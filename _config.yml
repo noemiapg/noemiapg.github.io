@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Noemia Pinto Guterres"
+  name             : "Noemia Guterres"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Eastern Illinois University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "nguterres@eiu.edu" 
 
   # Academic websites
   academia         : # URL
