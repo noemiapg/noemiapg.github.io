@@ -24,7 +24,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://noemiapg.github.io/files/noemiapg.pdf
     
   # - title: "CV"
   #   url: /cv-json/
